@@ -1,0 +1,17 @@
+GET http://localhost:3004/get
+###
+
+GET http://localhost:3004/required?search=Mens&limit=10&offset=1
+###
+
+GET http://localhost:3004/statistics/03
+###
+
+GET http://localhost:3004/barChart/05
+###
+
+GET http://localhost:3004/pieChart/09
+###
+
+GET http://localhost:3004/api/combined
+###
